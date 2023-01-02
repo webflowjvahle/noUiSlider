@@ -73,7 +73,7 @@ let callbackNoUiSlider = function (mutationsList) {
                   break;
               }
             });
-          }, 400);
+          }, 1000);
         });
       } else {
         console.log("navLinkNoUiSlider element is not present on the page");
